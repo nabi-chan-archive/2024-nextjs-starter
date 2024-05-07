@@ -30,6 +30,11 @@ export default function Home() {
             API 만들기 (/api/ping)
           </Link>
         </li>
+        <li>
+          <Link href="/api/ping" className="text-blue-600">
+            PR Preview Comment 보기
+          </Link>
+        </li>
       </ul>
       <h1 className="text-2xl font-bold mt-8 mb-4">추가적인 예제들 ^_^v</h1>
       <ul className="flex flex-col gap-2 list-disc list-inside">
