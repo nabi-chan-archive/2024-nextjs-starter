@@ -31,7 +31,10 @@ export default function Home() {
           </Link>
         </li>
         <li>
-          <Link href="/api/ping" className="text-blue-600">
+          <Link
+            href="https://sample-project-git-pr-comment-test-nabichan.vercel.app"
+            className="text-blue-600"
+          >
             PR Preview Comment 보기
           </Link>
         </li>
